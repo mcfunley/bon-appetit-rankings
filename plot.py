@@ -85,7 +85,7 @@ for point in points:
 
 x_label = ax.set_xlabel('influencer ⟸⟹ specialist')
 y_label = ax.set_ylabel('dumb ⟸⟹ smart')
-z_label = ax.set_zlabel('phony ⟸⟹ sincere')
+z_label = ax.set_zlabel('evil ⟸⟹ good')
 
 ax.set_xlim([-S, S])
 ax.set_ylim([-S, S])
